@@ -1,4 +1,4 @@
-baseURL = 'http://blog.zeus-technologies.com/'
+baseURL = 'https://zeus-technologies.github.io/'
 languageCode = 'en-us'
 theme = 'terminal'
 paginate = 5
